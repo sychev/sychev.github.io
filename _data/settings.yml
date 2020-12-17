@@ -3,8 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
+- {name: 'Resume', url: 'pages/resume.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -13,9 +12,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Aleksey Sychev's Portfolio & Resume'
 
 #-------------------------------
 # Google Analytics Section
@@ -47,7 +44,7 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  You may contact me [through my email](mailto:alesychev@gmail.com) if you have any questions.
 
 #-------------------------------
 # Work Section
@@ -63,10 +60,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/alesychev/'}
+- {icon: 'envelope', link: 'mailto:alesychev@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
