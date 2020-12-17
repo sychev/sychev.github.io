@@ -13,6 +13,8 @@ menu:
 
 seo:
   description: 'Aleksey Sychev's Portfolio & Resume'
+  rel-author: 'https://sychev.github.io/'
+  rel-publisher: 'https://sychev.github.io/'
 
 #-------------------------------
 # Google Analytics Section
@@ -44,7 +46,7 @@ about: >
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:alesychev@gmail.com) if you have any questions.
+  You may contact me [through my email](mailto:alesychev@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
 
 #-------------------------------
 # Work Section
@@ -60,7 +62,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/alesychev/'}
-- {icon: 'envelope', link: 'mailto:alesychev@gmail.com'}
+- {icon: 'twitter', link: '#'}
+- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: '#'}
+- {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
