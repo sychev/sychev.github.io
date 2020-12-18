@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Aleksey Sychev
-    tagline: VFX Superhero
+    tagline: VFX Programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,13 +16,14 @@ sidebar:
     phone: +7 926 108 93 45
     website: sychev.github.io #do not add http://
     linkedin: alesychev
-    github: sychev
+    github: # sychev
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    codesignal: alesychev
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -32,15 +33,15 @@ sidebar:
       - idiom: Russian
         level: Native
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
+    # 
+    #   - item: Snowboarding
+    #     link:
+    # 
+    #   - item: Cooking
+    #     link:
 
 career-profile:
     title: Career Profile
