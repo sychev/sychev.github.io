@@ -8,20 +8,20 @@ sidebar:
 
     # Profile information
     name: Aleksey Sychev
-    tagline: C++ Software Developer
+    tagline: Java Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: alesychev@gmail.com
-    phone: +7 926 108 93 45
+    phone: +7.926.108.93.45
     website: sychev.github.io #do not add http://
     linkedin: alesychev
-    github: # sychev
-    telegram: # add your nickname without '@' sign
+    github: sychev
+    telegram: alesychev # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: # '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@alesychev' # '@webjeda'
+    stack-overflow: 9404752/aleksey-sychev # Number/Username, e.g. 123456/alandoe
     codewars:
     codesignal: alesychev
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -53,9 +53,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Specialist in Computer Science
+      university: Moscow State University of Design and Technologies
+      time: 2002 - 2007
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,21 +64,21 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    #- degree: BSc in Applied Mathematics
+    #  university: Bristol University
+    #  time: 2007 - 2011
+    #  details: |
+    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #    pretium quis, sem.
+    #      - Bullet point
+    #      - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Senior Quality Assurance Engineer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Luxoft, Moscow
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
