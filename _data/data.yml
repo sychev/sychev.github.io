@@ -46,24 +46,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I like testing things, to find weak spots and unusual patterns. Which makes me a good quality assurance specialist.
+      I like to learn new things.
+      I have a classic IT education: I know algorithms, data structures, programming concepts. I'm aware that I don't know everything about programming, but I know how to learn it the fastest way.
+      I write clean code. I always assume that somebody will work with it in the future, so I'm trying to make it clean, simple, and readable.
 education:
     - degree: Specialist in Computer Science
       university: Moscow State University of Design and Technologies
       time: 2002 - 2007
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    #  details: |
+    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #    pretium quis, sem.
+    #      - Bullet point
+    #      - Bullet point
     #- degree: BSc in Applied Mathematics
     #  university: Bristol University
     #  time: 2007 - 2011
@@ -76,128 +74,111 @@ education:
     #      - Bullet point
     #      - Bullet point
 experiences:
-#    - role: C++ Software Developer
-#      time: 2021 - Present
-#      company: Luxoft, Moscow
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
-#          - Bullet point
-#          - Bullet point
-    - role: Senior Quality Assurance Engineer
-      time: 2015 - 2021
+    - role: Senior Software Test Developer in C++
+      time: Apr 2021 — Present
       company: Luxoft, Moscow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Our customer — big German car manufacturer creates automotive software based on AutoSAR Adaptive platform.
+        My responsibility is to update existing test cases and create new ones in C++ for testing automotive software for AutoSAR Adaptive platform.
+    - role: Senior Quality Assurance Engineer
+      time: Apr 2015 — Apr 2021
+      company: Luxoft, Moscow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        QA automation for Linux. Testing various Linux features for customer in Germany. Most of the time working with new RHEL, SLES and Ubuntu distributives.
+        Maintaining existing base of the testcase, updating testcases for the upcoming changes in distributives.
+        Main languages are Python and Bash. C++ and Java used as well, but for 10% of the time.
+    - role: Quality Assurance Engineer
+      time: Sep 2013 — Feb 2015
+      company: Mikronika, Moscow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Mikronika Lysis creates a cutting-the-edge real-time management software for electrical substations.
+        Testing the cutting-the-edge real-time management software for electrical substations (compliance with IEC 61850).
+        I've created a QA automation system (main language is Bash) for emulating different situations on electrical substation such as short circuit, voltage dropping, etc, and collecting and analyzing test results with further conclusions about pass/fail results.
+    - role: Teacher
+      time: Nov 2012 — Jun 2013
+      company: Krasnogorsk State College
+      details: |
+        Krasnogorsk State College an institution offering vocational education.
+        I lead courses for "Operating Systems" and "Relational Database" for one academic year. I prepared two students for successful diploma defense.
+    - role: C++/Qt Software Developer
+      time: Apr 2011 - Jan 2012
+      company: Huawei Technologies
+      details: |
+        Project is about software branding for Huawei 3G USB modems for the Russian mobile operators (MTS, Beeline, Megafon).
+        My part was localization and customization of existing C++/Qt applications (managing mobile internet USB modem) for the local Russian market based on requirements from major mobile operators.
+    - role: C++/Qt Software Developer
+      time: Aug 2010 - Feb 2011
+      company: SADAD Payment System
+      details: |
+        SADAD presented touchscreen payment terminals with ability to accept cash for further online transactions — bank account fulfillment, fines and fees payment.
+        I created a nice and smooth GUI with C++/Qt for the SADAD payment terminal.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Algorithms and Data Structures
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Git
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Bash
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: CI/CD
+        level: 85%
 
 footer: >
     <!-- Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> -->
