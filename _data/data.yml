@@ -161,24 +161,24 @@ experiences:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: C++
-        level: 75%
+#     toolset:
+#       - name: C++
+#         level: 75%
 
-      - name: Algorithms and Data Structures
-        level: 70%
+#       - name: Algorithms and Data Structures
+#         level: 70%
 
-      - name: Git
-        level: 95%
+#       - name: Git
+#         level: 95%
 
-      - name: Bash
-        level: 85%
+#       - name: Bash
+#         level: 85%
 
-      - name: CI/CD
-        level: 50%
+#       - name: CI/CD
+#         level: 50%
 
 footer: >
     <!-- Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> -->
