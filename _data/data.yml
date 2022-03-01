@@ -47,10 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I like testing things, to find weak spots and unusual patterns. Which makes me a good quality assurance specialist.
-      I like to learn new things.
-      I have a classic IT education: I know algorithms, data structures, programming concepts. I'm aware that I don't know everything about programming, but I know how to learn it the fastest way.
-      I write clean code. I always assume that somebody will work with it in the future, so I'm trying to make it clean, simple, and readable.
+      C++ developer with experience in Java, Python, Bash, Rust, Go.
+      Strong analytical skills. Get things done. Constantly learn every day. Attention to details.
 education:
     - degree: Master of Engineering
       university: Moscow State University of Design and Technologies
@@ -81,21 +79,17 @@ experiences:
 #      details: |
 #        Our customer — big German car manufacturer creates automotive software based on AutoSAR Adaptive platform.
 #        My responsibility is to update existing test cases and create new ones in C++ for testing automotive software for AutoSAR Adaptive platform.
-    - role: Senior Quality Assurance Engineer
+    - role: C++ Software Developer in Test
       time: Apr 2015 — Jun 2021
 #      time: Apr 2015 — Apr 2021
       company: Luxoft, Moscow
       details: |
-        QA automation for Linux. Testing various Linux features for customer in Germany. Most of the time working with new RHEL, SLES and Ubuntu distributives.
-        Maintaining existing base of the testcase, updating testcases for the upcoming changes in distributives.
-        Main languages are Python and Bash. C++ and Java used as well, but for 10% of the time.
-    - role: Quality Assurance Engineer
+        Created efficient and fast tools for QA automation to test software and special hardware at extreme configurations (1TB RAM, 100+ CPUs). Technologies: C++, Bash, Python, Java, Ansible, Tessia OMP, Git, GitHub Enterprise.
+    - role: C++ Software Developer in Test
       time: Sep 2013 — Feb 2015
       company: Mikronika, Moscow
       details: |
-        Mikronika Lysis creates a cutting-the-edge real-time management software for electrical substations.
-        Testing the cutting-the-edge real-time management software for electrical substations (compliance with IEC 61850).
-        I've created a QA automation system (main language is Bash) for emulating different situations on electrical substation such as short circuit, voltage dropping, etc, and collecting and analyzing test results with further conclusions about pass/fail results.
+        Created QA automation system to simulate electrical substation measurements (OSI level 2) according to IEC 61850 to test and evaluate real-time substation management software. Reduced testing time by 40%. Technologies: Linux, C++/Qt, Bash, Git. 
     - role: Teacher
       time: Nov 2012 — Jun 2013
       company: Krasnogorsk State College
@@ -106,14 +100,12 @@ experiences:
       time: Apr 2011 - Jan 2012
       company: Huawei Technologies
       details: |
-        Project is about software branding for Huawei 3G USB modems for the Russian mobile operators (MTS, Beeline, Megafon).
-        My part was localization and customization of existing C++/Qt applications (managing mobile internet USB modem) for the local Russian market based on requirements from major mobile operators.
+        Customized and localized existing C++/Qt application for USB 3G modem to get contracts for branding with Russian telecom companies.
     - role: C++/Qt Software Developer
       time: Aug 2010 - Feb 2011
       company: SADAD Payment System
       details: |
-        SADAD presented touchscreen payment terminals with ability to accept cash for further online transactions — bank account fulfillment, fines and fees payment.
-        I created a nice and smooth GUI with C++/Qt for the SADAD payment terminal.
+        Created nice and smooth GUI with C++/Qt for payment terminal. Optimized GUI to fit low-end hardware requirements to save on hardware costs.
 #projects:
 #    title: Projects
 #    intro: >
