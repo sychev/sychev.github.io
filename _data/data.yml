@@ -21,11 +21,11 @@ sidebar:
     telegram: alesychev # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@alesychev' # '@webjeda'
+    # twitter: '@alesychev' # '@webjeda'
     # stack-overflow: 9404752/aleksey-sychev # Number/Username, e.g. 123456/alandoe
-    codewars:
-    codesignal: alesychev
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # codewars:
+    # codesignal: alesychev
+    # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
