@@ -75,14 +75,15 @@ education:
     #      - Bullet point
     #      - Bullet point
 experiences:
-    - role: C++ Senior Software Developer in Test
-      time: Apr 2021 — Jun 2021
-      company: Luxoft, Moscow
-      details: |
-        Our customer — big German car manufacturer creates automotive software based on AutoSAR Adaptive platform.
-        My responsibility is to update existing test cases and create new ones in C++ for testing automotive software for AutoSAR Adaptive platform.
+#    - role: C++ Senior Software Developer in Test
+#      time: Apr 2021 — Jun 2021
+#      company: Luxoft, Moscow
+#      details: |
+#        Our customer — big German car manufacturer creates automotive software based on AutoSAR Adaptive platform.
+#        My responsibility is to update existing test cases and create new ones in C++ for testing automotive software for AutoSAR Adaptive platform.
     - role: Senior Quality Assurance Engineer
-      time: Apr 2015 — Apr 2021
+      time: Apr 2015 — Jun 2021
+#      time: Apr 2015 — Apr 2021
       company: Luxoft, Moscow
       details: |
         QA automation for Linux. Testing various Linux features for customer in Germany. Most of the time working with new RHEL, SLES and Ubuntu distributives.
